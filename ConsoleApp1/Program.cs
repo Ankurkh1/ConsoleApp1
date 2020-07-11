@@ -10,6 +10,7 @@ namespace ConsoleApp1
             //Checking from local master
             //Checkin from local master and push
             //remote change on Master
+            //remote change on Master2
         }
     }
 }
